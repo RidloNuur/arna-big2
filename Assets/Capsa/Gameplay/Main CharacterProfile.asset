@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a41c32475a2d3f84aa3024faac403686, type: 3}
+  m_Name: Main CharacterProfile
+  m_EditorClassIdentifier: 
+  characters:
+  - name: Maya
+    avatars:
+    - {fileID: 21300000, guid: 4dc2d99e452e27e4eb78c02975909816, type: 3}
+    - {fileID: 21300000, guid: 2aa00a430619e184781099f3b73ed989, type: 3}
+    - {fileID: 21300000, guid: 2a53a1c1a599a2545a833276f99d8f34, type: 3}
+  - name: Anya
+    avatars:
+    - {fileID: 21300000, guid: a5f043110b22c4a4a98f5ebc0a879d63, type: 3}
+    - {fileID: 21300000, guid: 910969cded008ab42bad8edd32885958, type: 3}
+    - {fileID: 21300000, guid: 23dc4ece17aca364aa83140e56e47b1b, type: 3}
+  - name: Andi
+    avatars:
+    - {fileID: 21300000, guid: 50aba811fb8a7484db176e3683933436, type: 3}
+    - {fileID: 21300000, guid: 6d6659360b79f574ba9fcbc3e6b2b46c, type: 3}
+    - {fileID: 21300000, guid: 43186d2dc206acf4c9333fa7bf7673da, type: 3}
+  - name: Dani
+    avatars:
+    - {fileID: 21300000, guid: de655eb29fd046540b93c28ab8a4afba, type: 3}
+    - {fileID: 21300000, guid: f9fd9bd24b9165c4dad8c7a4da5e06de, type: 3}
+    - {fileID: 21300000, guid: 3aa2d00408d5cee48993f6d305c46f1a, type: 3}
+  - name: Hex
+    avatars:
+    - {fileID: 21300000, guid: 60e19cbe201d7dd4e94f5187c3435775, type: 3}
+    - {fileID: 21300000, guid: 321443aac416dfc428ea6d53aa3074f7, type: 3}
+    - {fileID: 21300000, guid: 66b1492de800a05478bece5e43db22df, type: 3}
+  - name: Zoomie
+    avatars:
+    - {fileID: 21300000, guid: fdf5bb20ba8a37a43bb88894422382a1, type: 3}
+    - {fileID: 21300000, guid: 018bfebc354334a45866d42c8e9b513e, type: 3}
+    - {fileID: 21300000, guid: f955f4a27b8bbd24492001595afe28f6, type: 3}
